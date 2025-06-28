@@ -24,10 +24,14 @@
     text-decoration: underline;
 }
 .container {
-    
+    text-align: center;
+}
+.container a {
+    margin-top: 40px;
 }
 .container-title {
-
+    text-align: center;
+    padding-bottom: 20px;
 }
 .container-button {
     background-color: #B7410E;
