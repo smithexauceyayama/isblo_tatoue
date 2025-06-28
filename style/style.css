@@ -66,6 +66,8 @@ body {
     background-color: #2C3E50;
     text-align: justify;
     margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .card-img {
     width: 100%;
@@ -76,6 +78,7 @@ body {
 }
 .card-body {
     padding: 20px;
+    line-height: 1.5;
 }
 .card-body h1 {
     padding-top: -10px;
