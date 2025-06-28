@@ -81,6 +81,23 @@ body {
     padding-top: -10px;
     padding-bottom: 10px;
 }
+.bg2 {
+    background: url("../images/services.jpg") no-repeat center center/cover;
+    height: 380px;
+    text-align: center;
+}
+.bg2 h2 {
+    color: white;
+    text-align: center;
+    padding-top: 130px;
+    font-size: 3em;
+}
+.bg2 p {
+    color: white;
+    font-size: 1.2em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 footer {
     background-color: #B7410E;
     color: white;
